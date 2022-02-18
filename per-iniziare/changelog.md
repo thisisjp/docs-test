@@ -7,7 +7,7 @@ description: >-
 
 # 🕘 Changelog
 
-### 3.0 (gennaio 2022)
+### 3.0 (febbraio 2022)
 
 * Nuova esperienza di lettura del documento
 * Nuovi namespace per definire i testi segnaposto
@@ -20,6 +20,7 @@ description: >-
 * Nuovi testi in lingua inglese
 * Nuovo modello per gestire una [avviso-con-seconda-lingua.md](../struttura/varianti/traduzioni/avviso-con-seconda-lingua.md "mention")
 * Nuovi esempi d'utilizzo
+* Aggiunte regole per la codifica del Codice QR
 
 ### 2.2 (dicembre 2018)
 
