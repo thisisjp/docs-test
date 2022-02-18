@@ -37,7 +37,3 @@
   * [Colori](struttura/elementi-di-design/colori.md)
   * [Margini e spazi](struttura/elementi-di-design/margini-e-spazi.md)
   * [Elementi grafici](struttura/elementi-di-design/elementi-grafici.md)
-
-## Partecipa
-
-* [❓ Serve aiuto?](partecipa/serve-aiuto.md)
