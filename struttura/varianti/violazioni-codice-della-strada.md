@@ -14,7 +14,7 @@ Puoi utilizzare questo modello come esempio per tutti gli avvisi in cui la scade
 {% endhint %}
 
 {% hint style="warning" %}
-Se l'Ente Creditore dispone di un conto corrente postale per gli incassi, è necessario includere anche il [bollettino-postale-pa.md](../specifiche-tecniche/dati-per-il-pagamento/bollettino-postale-pa.md "mention"). Per maggiori informazioni, fai riferimento al [#layout-con-multipli-di-2](../specifiche-tecniche/dati-per-il-pagamento/rate-multiple.md#layout-con-multipli-di-2 "mention").
+Se l'Ente Creditore dispone di un conto corrente postale per gli incassi, è necessario includere anche il [bollettino-postale-pa.md](../specifiche-tecniche/dati-per-il-pagamento/bollettino-postale-pa.md "mention"). In questo caso, dovrai utilizzare due pagine differenti: una per l'importo scontato del 30%, l'altra per l'importo ridotto.
 {% endhint %}
 
 {% embed url="https://www.figma.com/file/os2kysGJOwD5GwyZIRsG5O/Violazioni-CDS?node-id=0%3A1" %}
@@ -49,7 +49,7 @@ Modello di avviso di pagamento pagoPA per stampanti termiche (su Figma).
 
 ### Risorse disponibili
 
-{% file src="../../.gitbook/assets/pagoPA-Avvisi-3.0-violazioneCDS.zip" %}
+{% file src="../../.gitbook/assets/pagoPA-Avvisi-3.0-violazioniCDS-StampaTermica.zip" %}
 Modello di avviso di pagamento pagoPA per stampanti termiche (SVG e PDF).
 {% endfile %}
 
