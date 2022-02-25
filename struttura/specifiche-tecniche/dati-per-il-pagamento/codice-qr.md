@@ -111,3 +111,16 @@ Stringa
 Minimo 2, massimo 11 caratteri
 {% endtab %}
 {% endtabs %}
+
+## Caratteristiche tecniche
+
+Nella tabella sottostante sono riportate le caratteristiche tecniche che devono essere applicate nella generazione del codice QR.
+
+| Caratteristica | Valore da utilizzare          |
+| -------------- | ----------------------------- |
+| Symbol version | 4                             |
+| Modules        | 33x33                         |
+| Modules width  | 3 pixels                      |
+| ECC level      | M (correzione errore max 15%) |
+| Character set  | UTF-8                         |
+
