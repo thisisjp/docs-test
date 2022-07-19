@@ -3,7 +3,6 @@ description: >-
   Questa documentazione fornisce indicazioni per la produzione dell’avviso
   analogico di pagamento pagoPA. Il documento è di riferimento per gli Enti
   Creditori ed i Prestatori di Servizi di Pagamento.
-layout: landing
 ---
 
 # 👋 Introduzione
